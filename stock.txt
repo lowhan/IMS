@@ -1,0 +1,7 @@
+sample:56
+apple:61
+orange:102
+pineapple:158
+dragonfruit:134
+durian:334
+lychee:205
