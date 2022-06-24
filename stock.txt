@@ -1,4 +1,4 @@
-sample:56
+sample:66
 apple:61
 orange:102
 pineapple:158

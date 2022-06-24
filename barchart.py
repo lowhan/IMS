@@ -1,7 +1,7 @@
 # This module contains a function for drawing the barchart
 
 def draw_bar(chart,key,value):
-    chart.forward(20)                # Leave small gap after each bar
+    chart.forward(20)                # Leave small gap before each bar
     chart.begin_fill()               # Start to fill the bar
     chart.left(90)
     chart.forward(value)             # Draw up at the left side
